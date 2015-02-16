@@ -1,0 +1,16 @@
+{
+  "name": "glorious-leader",
+  "version": "0.0.1",
+  "description": "Wisdom from King Jong Un directly in your browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maciej Makowski",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.11.2",
+    "markov": "0.0.7",
+    "through2": "^0.6.3"
+  }
+}
