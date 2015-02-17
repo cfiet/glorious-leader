@@ -11,8 +11,7 @@
   "dependencies": {
     "express": "^4.11.2",
     "markov": "0.0.7",
-    "mustache-express": "^1.2.1",
-    "through2": "^0.6.3"
+    "mustache-express": "^1.2.1"
   },
   "engines": {
     "node": "0.10.35"
