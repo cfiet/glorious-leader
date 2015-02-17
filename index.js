@@ -7,7 +7,7 @@ var chain = markov(1);
 
 var app = express();
 
-var PORT = process.env.GLORIOUS_PORT || 8082;
+var PORT = process.env.PORT || 8082;
 
 app.engine('mustache', mustacheExpress());
 app.set('view engine', 'mustache');
