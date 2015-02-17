@@ -11,6 +11,7 @@ div.background {
     height: 100%;
     opacity: 0.6;
     background-size: 100%;
+    background-repeat: no-repeat;
     z-index: -1;
 }
 
