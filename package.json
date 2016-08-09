@@ -1,6 +1,6 @@
 {
   "name": "glorious-leader",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Wisdom from King Jong Un directly in your browser",
   "main": "index.js",
   "scripts": {
